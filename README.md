@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=2000&center=true&width=435&lines=Hey+there;I'm+Guilherme+Vieira;I'm+from+Brazil;I'm+Java%2C+javascript+developer;I'm+an+eternal+apprentice)](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeVgl&show_icons=true&bg_color=yellow)
