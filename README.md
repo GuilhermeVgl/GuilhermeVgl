@@ -1,6 +1,8 @@
 ### Hey There, welcome!!! I'm Guilherme Vieira... 🦆
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeVgl&show_icons=true&bg_color=yellow)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi There,+My+Name+is+Guilherme+Vieira;I'm+20+years+old;I+am+from+Brazil;I+study+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
