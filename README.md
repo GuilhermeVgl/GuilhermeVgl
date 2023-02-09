@@ -1,9 +1,9 @@
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=2000&center=true&width=435&lines=Hey+there;I'm+Guilherme+Vieira;I'm+from+Brazil;I'm+Java%2C+javascript+developer;I'm+an+eternal+apprentice)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=2000&center=true&width=435&lines=Hey+there;I'm+Guilherme+Vieira;I'm+from+Brazil;I'm+Java%2C+javascript+developer;I'm+an+eternal+apprentice)](https://git.io/typing-svg)
 
-<div> 
+<!-- <div> 
  <h4>Hi There. I'm Guilherme Vieira. I'm 19 years old and I'm from Brazil.</h4>
  <h5>I'm a Java Developer and a full-stack web developer. I do use JavaScript, Spring Boot, Bootstrap, HTML, React and Node JS. </h5>
-</div>
+</div> -->
  
  <div>
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeVgl&show_icons=true&bg_color=yellow">
