@@ -1,7 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=2000&center=true&width=435&lines=Hey+there;I'm+Guilherme+Vieira;I'm+from+Brazil;I'm+Java%2C+javascript+developer;I'm+an+eternal+apprentice)](https://git.io/typing-svg)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeVgl&show_icons=true&bg_color=yellow)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVgl&layout=compact)](https://github.com/GuilhermeVgl/github-readme-stats)
+ 
+ <div>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeVgl&show_icons=true&bg_color=yellow">
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVgl&layout=compact)](https://github.com/GuilhermeVgl/github-readme-stats">
+ </div>
 
 ### Main skills:
 <div style="display: inline_block"><br>
