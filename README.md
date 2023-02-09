@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=2000&center=true&width=435&lines=Hey+there;I'm+Guilherme+Vieira;I'm+from+Brazil;I'm+Java%2C+javascript+developer;I'm+an+eternal+apprentice)](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeVgl&show_icons=true&bg_color=yellow)
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
