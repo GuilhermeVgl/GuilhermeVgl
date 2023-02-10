@@ -41,6 +41,6 @@
 <h1></h1>
 
 <p>
-⚡ <b>Good Citations</b> <br>
+🎤 <b>Good Citations</b> <br>
 “Innovation distinguishes between a leader and a follower.” — Steve Jobs
 </p>
