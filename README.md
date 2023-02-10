@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=2000&center=true&width=435&lines=Hey+there;I'm+Guilherme+Vieira;I'm+from+Brazil;I'm+Java%2C+javascript+developer;I'm+an+eternal+apprentice)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=2000&width=435&lines=Hey+there;I'm+Guilherme+Vieira;I'm+from+Brazil;I'm+Java%2C+javascript+developer;I'm+an+eternal+apprentice)](https://git.io/typing-svg)
 
 ## Let's work together?
 
@@ -14,8 +14,8 @@
 
 <div>
 <!-- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeVgl&show_icons=true&bg_color=yellow"> -->
-<img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVgl&layout=compact)](https://github.com/GuilhermeVgl/github-readme-stats">
-<img align="right" height="190px" alt="GIF" src="https://raw.githubusercontent.com/ohidurbappy/uploads/main/coding-animation.gif" />
+<img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVgl&layout=compact)](https://github.com/GuilhermeVgl/github-readme-stats">
+<img height="210px" alt="GIF" src="https://raw.githubusercontent.com/ohidurbappy/uploads/main/coding-animation.gif" />
 </div>
 
 ##
