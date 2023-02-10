@@ -1,14 +1,23 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=2000&center=true&width=435&lines=Hey+there;I'm+Guilherme+Vieira;I'm+from+Brazil;I'm+Java%2C+javascript+developer;I'm+an+eternal+apprentice)](https://git.io/typing-svg)
 
-<!-- <div> 
- <h4>Hi There. I'm Guilherme Vieira. I'm 19 years old and I'm from Brazil.</h4>
- <h5>I'm a Java Developer and a full-stack web developer. I do use JavaScript, Spring Boot, Bootstrap, HTML, React and Node JS. </h5>
-</div> -->
+## Let's work together?
+
+<div style="space-around">
+<a href="https://api.whatsapp.com/send?phone=5567984158359&text=Ol%C3%A1!!!%20Vim%20pelo%20seu%20GitHub" target="_blank"><img align="center" alt="Gui-CSS" height="50" width="40"  src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg"></a>
+<a href="ailto:guilhermeharfy@gmail.com" target="_blank"><img align="center" alt="Gui-CSS" height="50" width="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg"></a>
+<a href="https://www.linkedin.com/in/guilherme-vieira-de-freitas/" target="_blank"><img align="center" alt="Gui-CSS" height="50" width="40"  src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg"></a>
+<a href="https://guilhermevgl.github.io/Portfolio/" target="_blank"><img align="center" alt="Gui-CSS" height="50" width="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Safari.svg"></a>
  
- <div>
+</div> 
+
+##
+
+<div>
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeVgl&show_icons=true&bg_color=yellow">
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVgl&layout=compact)](https://github.com/GuilhermeVgl/github-readme-stats">
- </div>
+</div>
+
+##
 
 ### Main skills:
 <div style="display: inline_block"><br>
@@ -27,13 +36,3 @@
 <img align="center" alt="Gui-Git" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="Gui-GitHub" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
  </div>
-
-  ## VAMOS TRABALHAR JUNTOS?
-
-<div> 
-  <a href="https://www.instagram.com/gui.vgl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://api.whatsapp.com/send?phone=5567984158359&text=Ol%C3%A1!!!%20Vim%20pelo%20seu%20LinkedIn" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
- 	<a href="https://guilhermevgl.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
-  <a href = "mailto:guilhermeharfy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-vieira-de-freitas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
