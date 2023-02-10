@@ -13,8 +13,9 @@
 ##
 
 <div>
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeVgl&show_icons=true&bg_color=yellow">
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVgl&layout=compact)](https://github.com/GuilhermeVgl/github-readme-stats">
+<!-- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeVgl&show_icons=true&bg_color=yellow"> -->
+<img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVgl&layout=compact)](https://github.com/GuilhermeVgl/github-readme-stats">
+<img align="right" height="190px" alt="GIF" src="https://raw.githubusercontent.com/ohidurbappy/uploads/main/coding-animation.gif" />
 </div>
 
 ##
@@ -34,5 +35,12 @@
 <img align="center" alt="Gui-VsCode" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 <img align="center" alt="Gui-IntelliJ" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
 <img align="center" alt="Gui-Git" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- <img align="center" alt="Gui-GitHub" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
- </div>
+<img align="center" alt="Gui-GitHub" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+</div>
+
+<h1></h1>
+
+<p>
+⚡ <b>Good Citations</b> <br>
+“Innovation distinguishes between a leader and a follower.” — Steve Jobs
+</p>
