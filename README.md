@@ -4,7 +4,7 @@
 
 <div style="space-around">
 <a href="https://api.whatsapp.com/send?phone=5567984158359&text=Ol%C3%A1!!!%20Vim%20pelo%20seu%20GitHub" target="_blank"><img align="center" alt="Gui-CSS" height="50" width="40"  src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg"></a>
-<a href="ailto:guilhermeharfy@gmail.com" target="_blank"><img align="center" alt="Gui-CSS" height="50" width="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg"></a>
+<a href="mailto:guilhermeharfy@gmail.com" target="_blank"><img align="center" alt="Gui-CSS" height="50" width="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg"></a>
 <a href="https://www.linkedin.com/in/guilherme-vieira-de-freitas/" target="_blank"><img align="center" alt="Gui-CSS" height="50" width="40"  src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg"></a>
 <a href="https://guilhermevgl.github.io/Portfolio/" target="_blank"><img align="center" alt="Gui-CSS" height="50" width="40" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Safari.svg"></a>
  
