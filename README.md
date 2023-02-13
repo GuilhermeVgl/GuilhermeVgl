@@ -14,7 +14,7 @@
 
 <div>
 <!-- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeVgl&show_icons=true&bg_color=yellow"> -->
-<img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynarasilvapinto&layout=compact)](https://github.com/GuilhermeVgl/github-readme-stats">
+<img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVgl&layout=compact)](https://github.com/GuilhermeVgl/github-readme-stats">
 <img height="210px" alt="GIF" src="https://raw.githubusercontent.com/ohidurbappy/uploads/main/coding-animation.gif" />
 </div>
 
