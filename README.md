@@ -42,13 +42,13 @@
 ### Soft skills:
 <ul>
  <li>
-  <a>Resilience</a>
-  <a>Team Work</a>
-  <a>Communication</a>
-  <a>Self confidence</a>
-  <a>Deal with pressure</a>
-  <a>Problems solution</a>
-  <a>Time management</a>
+  <a>Resilience</a> <br>
+  <a>Team Work</a> <br>
+  <a>Communication</a> <br>
+  <a>Self confidence</a> <br>
+  <a>Deal with pressure</a> <br>
+  <a>Problems solution</a> <br>
+  <a>Time management</a> <br>
  </li>
 </ul>
 
