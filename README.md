@@ -23,7 +23,7 @@
 
 ### Hard skills:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gui-Java" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Gui-Java" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
   <img align="center" alt="Gui-Js"  height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Gui-Js"  height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gui-CSS"  height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
