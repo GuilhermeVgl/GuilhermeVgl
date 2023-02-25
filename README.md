@@ -1,5 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1300&pause=1000&width=435&lines=Hey+there;I'm+Guilherme+Vieira;I'm+from+Brazil;I'm+a+Software+Engineer;I'm+a+Continual+learner;I'm+a+Developer;I'm+a+Problem+Solver;I'm+a+Lover+of+life)](https://git.io/typing-svg)
 
+
+
+
+
+
+
+
+
+
 ## Let's work together??
 
 <div>
