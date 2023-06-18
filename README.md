@@ -13,8 +13,8 @@
 ##
 
 <div>
-<!-- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeVgl&show_icons=true&bg_color=yellow"> -->
-<img height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVgl&layout=compact)](https://github.com/GuilhermeVgl/github-readme-stats">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeVgl&show_icons=true&bg_color=yellow">
+
 <!-- <img height="210px" alt="GIF" src="https://raw.githubusercontent.com/GuilhermeVgl/gifs/main/hacker.gif" /> -->
  <img height="210px" alt="GIF" src="https://raw.githubusercontent.com/GuilhermeVgl/gifs/main/22b22287602523.5dbd29081561d.gif" />
 </div>
