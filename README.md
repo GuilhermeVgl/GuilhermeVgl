@@ -13,7 +13,7 @@
 ##
 
 <div>
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeVgl&show_icons=true&bg_color=yellow">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuilhermeVgl&show_icons=true&bg_color=yellow"> <br>
 
 <!-- <img height="210px" alt="GIF" src="https://raw.githubusercontent.com/GuilhermeVgl/gifs/main/hacker.gif" /> -->
  <img height="210px" alt="GIF" src="https://raw.githubusercontent.com/GuilhermeVgl/gifs/main/22b22287602523.5dbd29081561d.gif" />
