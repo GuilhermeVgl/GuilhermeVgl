@@ -5,9 +5,10 @@
 <div>
 <a href="https://api.whatsapp.com/send?phone=5567984158359&text=Ol%C3%A1!!!%20Vim%20pelo%20seu%20GitHub" target="_blank"><img align="center" alt="Gui-CSS" height="70" width="55"  src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg"></a>
 <a href="mailto:guilhermeharfy@gmail.com" target="_blank"><img align="center" alt="Gui-CSS" height="70" width="55" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg"></a>
-<a href="https://www.linkedin.com/in/guilherme-vieira-de-freitas/" target="_blank"><img align="center" alt="Gui-CSS" height="70" width="55"  src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg"></a>
+<a href="https://www.linkedin.com/in/guilherme-vieira-de-freitas/" t![Uploading Sem título.png…]()
+arget="_blank"><img align="center" alt="Gui-CSS" height="70" width="55"  src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg"></a>
 <a href="https://guilhermevgl.github.io/Portfolio/" target="_blank"><img align="center" alt="Gui-CSS" height="70" width="55" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Safari.svg"></a>
- 
+
 </div> 
 
 ##
@@ -18,6 +19,8 @@
 <!-- <img height="210px" alt="GIF" src="https://raw.githubusercontent.com/GuilhermeVgl/gifs/main/hacker.gif" /> -->
 <img height="240px" alt="GIF" src="https://raw.githubusercontent.com/GuilhermeVgl/gifs/main/22b22287602523.5dbd29081561d.gif" />
 </div>
+
+ ![image](https://github.com/GuilhermeVgl/GuilhermeVgl/assets/83255622/644ccf8d-f378-472b-9199-079687628f58)
 
 ##
 
