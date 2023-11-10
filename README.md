@@ -15,12 +15,7 @@ arget="_blank"><img align="center" alt="Gui-CSS" height="70" width="55"  src="ht
 
 <div>
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVgl&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /><br>
-
-<!-- <img height="210px" alt="GIF" src="https://raw.githubusercontent.com/GuilhermeVgl/gifs/main/hacker.gif" /> -->
-<img height="240px" alt="GIF" src="https://raw.githubusercontent.com/GuilhermeVgl/gifs/main/22b22287602523.5dbd29081561d.gif" />
 </div>
-
- ![image](https://github.com/GuilhermeVgl/GuilhermeVgl/assets/83255622/644ccf8d-f378-472b-9199-079687628f58)
 
 ##
 
@@ -59,4 +54,10 @@ arget="_blank"><img align="center" alt="Gui-CSS" height="70" width="55"  src="ht
 <p>
 🎤 <b>Good Citations</b> <br>
 “Innovation distinguishes between a leader and a follower.” — Steve Jobs
+</p>
+
+
+
+<p align="center">
+<img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
 </p>
