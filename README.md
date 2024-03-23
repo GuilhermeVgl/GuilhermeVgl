@@ -39,17 +39,6 @@ arget="_blank"><img align="center" alt="Gui-CSS" height="70" width="55"  src="ht
 <img align="center" alt="Gui-GitHub" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
 </div>
 
-### Soft skills:
-<ul>
- <li><a>Resilience</a> <br> </li>
-  <li><a>Team Work</a> <br> </li>
-  <li><a>Communication</a> <br> </li>
-  <li><a>Self confidence</a> <br> </li>
-  <li><a>Deal with pressure</a> <br> </li>
-  <li><a>Problems solution</a> <br> </li>
-  <li><a>Time management</a> <br> </li>
-</ul>
-
 <h1></h1>
 
 <p>
