@@ -22,20 +22,24 @@ arget="_blank"><img align="center" alt="Gui-CSS" height="70" width="55"  src="ht
 ### Hard skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
-  <img align="center" alt="Spring Boot"  height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Ruby"  height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="Ruby"  height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
   <img align="center" alt="Ruby On Rails"  height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
+  <img align="center" alt="Spring Boot"  height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Angular JS"  height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-  <img align="center" alt="ReactJS"  height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="VueJS"  height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="TypeScript"  height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Tailwind css"  height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
 </div>
 
 ### Tools:
 <div>
-<img align="center" alt="Gui-VsCode" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-<img align="center" alt="Gui-IntelliJ" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+<img align="center" alt="Gui-Arch" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg">
 <img align="center" alt="Gui-Git" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img align="center" alt="Gui-Nvim" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg">
+<img align="center" alt="Gui-IntelliJ" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+<img align="center" alt="Gui-GitHub" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/podman/podman-original.svg">
+<img align="center" alt="Gui-GitHub" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
 <img align="center" alt="Gui-GitHub" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
 </div>
 
