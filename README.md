@@ -7,7 +7,7 @@
 <a href="mailto:guilhermeharfy@gmail.com" target="_blank"><img align="center" alt="Gui-CSS" height="70" width="55" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg"></a>
 <a href="https://www.linkedin.com/in/guilherme-vieira-de-freitas/" t![Uploading Sem título.png…]()
 arget="_blank"><img align="center" alt="Gui-CSS" height="70" width="55"  src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg"></a>
-<a href="https://guilhermevgl.github.io/Portfolio/" target="_blank"><img align="center" alt="Gui-CSS" height="70" width="55" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Safari.svg"></a>
+<a href="https://guilhermefreitas.dev.br" target="_blank"><img align="center" alt="Gui-CSS" height="70" width="55" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Safari.svg"></a>
 
 </div> 
 
