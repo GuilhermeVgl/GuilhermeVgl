@@ -1,57 +1,79 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1300&pause=1000&width=435&lines=Hey+there;I'm+Guilherme+Vieira;I'm+from+Brazil;I'm+a+Software+Engineer;I'm+a+Continual+learner;I'm+a+Developer;I'm+a+Problem+Solver;I'm+a+Lover+of+life)](https://git.io/typing-svg)
+<div align="center">
 
-## Let's work together??
+# Guilherme Freitas
 
-<div>
-<a href="https://api.whatsapp.com/send?phone=5567984158359&text=Ol%C3%A1!!!%20Vim%20pelo%20seu%20GitHub" target="_blank"><img align="center" alt="Gui-CSS" height="70" width="55"  src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg"></a>
-<a href="mailto:guilhermeharfy@gmail.com" target="_blank"><img align="center" alt="Gui-CSS" height="70" width="55" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg"></a>
-<a href="https://www.linkedin.com/in/guilherme-vieira-de-freitas/" t![Uploading Sem título.png…]()
-arget="_blank"><img align="center" alt="Gui-CSS" height="70" width="55"  src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg"></a>
-<a href="https://guilhermefreitas.dev.br" target="_blank"><img align="center" alt="Gui-CSS" height="70" width="55" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Safari.svg"></a>
+### Senior Software Engineer · Tech Lead
 
-</div> 
-
-##
-
-<div>
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVgl&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /><br>
-</div>
-
-##
-
-### Hard skills:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
-  <img align="center" alt="Ruby"  height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-  <img align="center" alt="Ruby"  height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
-  <img align="center" alt="Ruby On Rails"  height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
-  <img align="center" alt="Spring Boot"  height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Angular JS"  height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-  <img align="center" alt="VueJS"  height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="TypeScript"  height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Tailwind css"  height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-</div>
-
-### Tools:
-<div>
-<img align="center" alt="Gui-Arch" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg">
-<img align="center" alt="Gui-Git" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img align="center" alt="Gui-Nvim" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg">
-<img align="center" alt="Gui-IntelliJ" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-<img align="center" alt="Gui-GitHub" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/podman/podman-original.svg">
-<img align="center" alt="Gui-GitHub" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
-<img align="center" alt="Gui-GitHub" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
-</div>
-
-<h1></h1>
+Backend engineering · SaaS architecture · Product development
 
 <p>
-🎤 <b>Good Citations</b> <br>
-“Innovation distinguishes between a leader and a follower.” — Steve Jobs
+  <a href="https://guilhermefreitas.dev.br/"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/guilherme-vieira-de-freitas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:guilhermeharfy@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+🇧🇷 Brazil · UTC−4 · Open to international relocation and remote opportunities
 
+</div>
+
+---
+
+## 👋 About me
+
+I build and evolve SaaS products, with a focus on backend engineering, multi-tenant architecture, and practical solutions to business problems.
+
+Currently a Senior Consultant at **KPMG Brazil**, serving as tech lead for a SaaS platform. I work across architecture, implementation, code reviews, and production delivery, guiding internal developers and external contributors.
+
+## 🚀 Selected impact
+
+- **Architecture at KPMG:** Led a simplification that reduced projected annual infrastructure costs by **86–89%**, alongside framework upgrades, query tuning, and infrastructure right-sizing.
+- **AI in business workflows:** Implemented integrations with OpenAI models that save **350+ hours of manual work per month**.
+- **Backend performance:** At AZ Tecnologia, optimized processing routines, reducing resource consumption by **40%** and improving response time by **60%**.
+- **Legacy modernization:** At Cast Group, migrated a Java 6 application using Jersey to **Java 21 and Spring Boot**.
+
+## 🛠️ Built from scratch — Locanza
+
+I independently built an ERP for equipment rental companies, taking it from initial product design through production delivery and reaching up to **50 customers**.
+
+The platform covered inventory, rental workflows, logistics, customer management, financial management, and income statement reporting. I owned the architecture, backend, frontend, infrastructure, and deployment.
+
+**Built with:** Ruby on Rails, PostgreSQL, Solid Queue, Tailwind CSS, and Docker.
+
+## ⚙️ Tech stack
 
 <p align="center">
-<img align="center" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" title="Ruby" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Ruby on Rails" title="Ruby on Rails" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" title="Apache Kafka" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="42" height="42" />&nbsp;&nbsp;
 </p>
+
+| Area | Technologies |
+| --- | --- |
+| Backend | Ruby, Ruby on Rails, Java, Spring Boot |
+| Data & messaging | PostgreSQL, MongoDB, Kafka, Solid Queue |
+| Frontend | JavaScript, TypeScript, Vue.js, React, Tailwind CSS |
+| Infrastructure & delivery | Azure, Docker, Git, CI/CD |
+| AI integrations | OpenAI models |
+
+## 💡 How I work
+
+I like understanding the business problem, questioning unnecessary complexity, and staying involved through production. My work combines hands-on development with technical guidance, code reviews, automated testing, and release improvements.
+
+I care about software that teams can understand, maintain, and operate as the product grows.
+
+## 🎓 Background
+
+- B.Sc. in Computer Science — Uniderp, 2021–2025.
+- Postgraduate specialization in Cybersecurity — in progress.
+- Portuguese (native), English (advanced), and French (basic).
+
+## 🤝 Let’s connect
+
+Interested in working together? Reach me at **[guilhermeharfy@gmail.com](mailto:guilhermeharfy@gmail.com)** or connect on **[LinkedIn](https://www.linkedin.com/in/guilherme-vieira-de-freitas/)**.
